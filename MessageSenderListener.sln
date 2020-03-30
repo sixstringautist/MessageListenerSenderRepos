@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageListener", "MessageListener\MessageListener.csproj", "{8F746EA0-33A7-4878-98B5-B1B94EEF3BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSender", "MessageSender\MessageSender\MessageSender.csproj", "{8BDACE31-6816-4D31-BE0A-72E4534F3149}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSender", "MessageSender\MessageSender.csproj", "{8BDACE31-6816-4D31-BE0A-72E4534F3149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
